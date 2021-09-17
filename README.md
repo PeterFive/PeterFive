@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @PeterFive
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning deeplearning & c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👋 Hi, I’m a vegetable chicken programmer
+
 
 <!---
 PeterFive/PeterFive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
