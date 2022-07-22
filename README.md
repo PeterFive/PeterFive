@@ -1,6 +1,9 @@
 ![](https://img1.baidu.com/it/u=4163694445,4021145866&fm=253&fmt=auto&app=138&f=PNG?w=1234&h=500)
 
-- 👋 Hi, I’m a vegetable chicken programmer  ![](https://img0.baidu.com/it/u=1187410046,536209258&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=351)
+- 👋 Hi, I’m a vegetable chicken programmer  
+- 练习时长两年半的代码实习生
+
+![](https://img0.baidu.com/it/u=1187410046,536209258&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=351)
 
 
 <!---
