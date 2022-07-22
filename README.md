@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m a vegetable chicken programmer  
   - Code intern with two and a half years of practice:eyes:
-  - :chicken:Chicken you are so beautiful
+  - 🐣Chicken you are so beautiful
 
 
 
