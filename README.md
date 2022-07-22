@@ -1,4 +1,4 @@
-![](https://img.piewan.com/d/file/wenda/20220519/dvn3szu4yjd.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntvoUSCD0POB7NzsyRTllSZwuZ5bOYJRJHE4M5sZbNNawGOeHJS95m9i5RimGxNncYQY&usqp=CAU)
 
 - 👋 Hi, I’m a vegetable chicken programmer
 
