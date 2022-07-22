@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntvoUSCD0POB7NzsyRTllSZwuZ5bOYJRJHE4M5sZbNNawGOeHJS95m9i5RimGxNncYQY&usqp=CAU)
+![](https://img1.baidu.com/it/u=4163694445,4021145866&fm=253&fmt=auto&app=138&f=PNG?w=1234&h=500)
 
 - 👋 Hi, I’m a vegetable chicken programmer
 
