@@ -10,7 +10,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterFIve&theme=noctis-minimus&hide_border=true)](https://git.io/streak-stats)![PeterFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterFive&show_icons=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterFIve&theme=noctis-minimus&hide_border=false)](https://git.io/streak-stats)![PeterFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterFive&show_icons=true&theme=dracula)
 
 <!---
 PeterFive/PeterFive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
