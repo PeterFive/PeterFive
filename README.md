@@ -20,10 +20,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterFive&layout=compact)](https://github.com/PeterFive/github-readme-stats)
 
 <a href="https://github.com/PeterFive/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterFive&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterFive&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/PeterFive/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterFive&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterFive&repo=convoychat" />
 </a>
 <!---
 PeterFive/PeterFive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
