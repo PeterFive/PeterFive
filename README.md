@@ -14,7 +14,7 @@
  
     
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterFIve&theme=noctis-minimus&hide_border=false)](https://git.io/streak-stats)![PeterFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterFive&show_icons=true&theme=apprentice)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterFIve&theme=noctis-minimus&hide_border=false)](https://git.io/streak-stats)![PeterFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterFive&show_icons=true&theme=apprentice&count_private=true)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterFive&layout=compact)](https://github.com/PeterFive/github-readme-stats)
