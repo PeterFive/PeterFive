@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Hi%EF%BD%9E-I'm%20Peter%20%3A%20)-yellowgreen" />
+<img src="https://img.shields.io/badge/%F0%9F%90%93%20hello-I'm%20Peter%20%3A%20)-yellowgreen" />
 
 ![](https://img1.baidu.com/it/u=4163694445,4021145866&fm=253&fmt=auto&app=138&f=PNG?w=1234&h=500)
 
